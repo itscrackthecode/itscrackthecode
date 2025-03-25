@@ -11,7 +11,7 @@
 ###
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=itscrackthecode&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itscrackthecode&layout=compact&langs_count=100&theme=dracula&hide_border=false&card_width=400" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itscrackthecode&layout=compact&langs_count=150&theme=dracula&hide_border=false&card_width=400" height="170" alt="Top Languages" />
 </div>
 
 ###
