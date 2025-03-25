@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Winnish Allwin </h1>
+<h1 align="center">Hi 👋 I'm Winnish Allwin </h1>
 <h3 align="center">🚀 Pursuing B.E Computer Science Engineering | AI & ML 🎓</h3>
   <h4 align="center"> Vel Tech High Tech Collage </h4>
 
 - 🔭 I’m currently working on **Deep Learning Using Python**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Front-End**
 
-- 💬 Ask me about **"Ending is the starting point of anther one 🦾"**
-
-- 📫 How to reach me **jidioticweirdo7@gmail.com**
+- 📫 How to reach me **idioticweirdo7@gmail.com**
 
 ###
 <div align="center">
